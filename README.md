@@ -31,3 +31,8 @@ Skrypt dodaje:
 - ukrywa niepotrzebne okna które zawadzają
 
 ![Kafelki](https://github.com/engdave/usos-extended/blob/main/pictures/kafelki.png)
+
+# Licencja
+
+Cały kod i wszystko inne co znajduje się w tym repozytorium posiada licencję GNU GPL v3.0.
+Logo USOS jak i inne rzeczy do niego należąca są ich prawną własnością i nie należą w żadnym stopniu do mnie.
