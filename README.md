@@ -22,3 +22,7 @@ Skrypt dodaje:
 - menu w rogu ekranu pozwalające na szybki manewr po stronie
 
 ![Menu](https://github.com/engdave/usos-extended/blob/main/pictures/menu.png)
+
+- ukrywa niepotrzebne okna które zawadzają
+
+
