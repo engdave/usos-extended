@@ -1,0 +1,34 @@
+{
+  "name": "USOS Extended",
+  "author": "Engineer Dave",
+  "manifest_version": 2,
+  "description": "Dodaje kilka przydatnych funckji do systemu USOS dla AGH.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://web.usos.agh.edu.pl/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+	"panel.html",
+	"panel.css"
+  ],
+ 
+   "browser_action": {
+      "default_icon": {
+         "16": "/icons/usosextended-16.png",
+         "24": "/icons/usosextended-24.png",
+         "32": "/icons/usosextended-32.png",
+         "48": "/icons/usosextended-48.png",
+         "64": "/icons/usosextended-64.png",
+         "128": "/icons/usosextended-128.png"
+      },
+      "default_popup": "popup/usosextended-popup.html"
+
+   },
+  "permissions": [
+    "activeTab"
+  ]
+}
