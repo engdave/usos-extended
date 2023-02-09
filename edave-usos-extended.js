@@ -1,27 +1,30 @@
 // Przycisk liczący średnią z najnowszego semestru
 
 if (location.hostname === "web.usos.agh.edu.pl") {
-  var targetElement = document.querySelector('a[aria-controls="ui-id-2"]');
+	var targetElement = document.querySelector('a[aria-controls="ui-id-2"]');
 
-  if (targetElement) {
-    var newButton = document.createElement("button");
-    newButton.innerHTML = "Oblicz średnią";
-    targetElement.parentNode.insertBefore(newButton, targetElement.nextSibling);
+	if (targetElement) {
+	  var newButton = document.createElement("button");
+	  newButton.innerHTML = "Oblicz średnią";
+	  newButton.style.marginLeft = "10px";
+	  targetElement.parentNode.insertBefore(newButton, targetElement.nextSibling);
 
-    newButton.addEventListener("click", function() {
-      var elements = document.querySelectorAll("#tab2 > tr > td:nth-child(3) > div:nth-child(1) > span");
-      var sum = 0;
-      var count = 0;
+	  newButton.addEventListener("click", function(event) {
+		event.preventDefault();
 
-      elements.forEach(function(element) {
-        var grade = parseFloat(element.textContent.replace(',', '.'));
-        if (!isNaN(grade)) {
-          sum += grade;
-          count++;
-        }
-      });
-      var average = sum / count;
-      alert("Średnia ocen końcowych w tym semestrze: " + average);
+		var elements = document.querySelectorAll("#tab2 > tr > td:nth-child(3) > div:nth-child(1) > span");
+		var sum = 0;
+		var count = 0;
+
+		elements.forEach(function(element) {
+		  var grade = parseFloat(element.textContent.replace(',', '.'));
+		  if (!isNaN(grade)) {
+			sum += grade;
+			count++;
+		  }
+		});
+		var average = sum / count;
+		alert("Średnia ocen końcowych w tym semestrze: " + average);
     });
   }
 }
@@ -94,4 +97,14 @@ if (planFrame) {
 let preferencjeFrame = document.getElementById("preferencje-frame");
 if (preferencjeFrame) {
 	preferencjeFrame.parentNode.removeChild(preferencjeFrame);
+}
+
+const infoBox = document.querySelector('info-box');
+if (infoBox) {
+    infoBox.remove();
+}
+
+const noticeBox = document.querySelector('notice-box');
+if (noticeBox) {
+    noticeBox.remove();
 }
