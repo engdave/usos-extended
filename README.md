@@ -25,4 +25,4 @@ Skrypt dodaje:
 
 - ukrywa niepotrzebne okna które zawadzają
 
-
+![Kafelki](https://github.com/engdave/usos-extended/blob/main/pictures/kafelki.png)
