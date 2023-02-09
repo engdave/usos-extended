@@ -35,4 +35,4 @@ Skrypt dodaje:
 # Licencja
 
 Cały kod i wszystko inne co znajduje się w tym repozytorium posiada licencję GNU GPL v3.0.
-Logo USOS jak i inne rzeczy do niego należąca są ich prawną własnością i nie należą w żadnym stopniu do mnie.
+Logo USOS jak i inne rzeczy do niego należące są ich prawną własnością i nie należą w żadnym stopniu do mnie.
