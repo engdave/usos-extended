@@ -17,7 +17,7 @@ Trudny sposób:
 Skrypt dodaje:
 - przycisk do obliczania średniej z ocen końcowych
 
-![Obliczanie średniej](https://github.com/engdave/usos-extended/blob/main/pictures/obliczanie_%C5%9Bredniej.png)
+![Obliczanie średniej](https://github.com/engdave/usos-extended/blob/main/pictures/obliczanie_sr.png)
 
 - menu w rogu ekranu pozwalające na szybki manewr po stronie
 
