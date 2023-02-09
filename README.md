@@ -10,7 +10,12 @@ Wirtalny Dziekanat odszedł w zaświaty i ludzie musieli się przyzwyczaić do "
 - Pobierz dodatek z [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) (jeszcze nie aktualne)
 
 Trudny sposób:
-- Pobierz całą paczkę [klikając tutaj](https://github.com/engdave/usos-extended/archive/refs/heads/main.zip) i wrzuć sobie do przeglądarki Chrome.
+- Wykonaj poniższe kroki aby załadować rozszerzenie:
+  - Pobierz paczkę [kliknij tutaj](https://github.com/engdave/usos-extended/archive/refs/heads/main.zip),
+  - Przejdź do rozszerzeń Chrome (chrome://extensions/),
+  - Włącz tryb dewelopera,
+  - Wybierz opcję "Załaduj rozpakowane" i wybierz folder z rozszerzeniem.
+
 
 # Możliwości
 
