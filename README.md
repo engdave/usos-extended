@@ -2,7 +2,7 @@
 
 # USOS Extended
 
-Skrypt dodaje kilka bajerów do USOSa (http://web.usos.agh.edu.pl/) których w systemie nie ma a powinny być. W razie jakichkolwiek problemów pisać.
+Wirtalny Dziekanat odszedł w zaświaty i ludzie musieli się przyzwyczaić do "tego gorszego" systemu jakim jest USOS. Sam w sobie system jest dobrze zrobiony ale uczelnia AGH nie wykorzystuje jego pełnego potencjału. Skrypt dodaje kilka smaczków których w systemie nie ma a powinny być.
 
 # Instalacja
 
@@ -12,9 +12,13 @@ Skrypt dodaje kilka bajerów do USOSa (http://web.usos.agh.edu.pl/) których w s
 Trudny sposób:
 - Pobierz całą paczkę [klikając tutaj](https://github.com/engdave/usos-extended/archive/refs/heads/main.zip) i wrzuć sobie do przeglądarki Chrome.
 
-# Dodatek w akcji
+# Możliwości
 
 Skrypt dodaje:
 - przycisk do obliczania średniej z ocen końcowych
 
-![Obliczanie średniej](https://github.com/engdave/usos-extended/blob/main/pictures/obliczanie_%C5%9Bredniej.png?raw=true)
+![Obliczanie średniej](https://github.com/engdave/usos-extended/blob/main/pictures/obliczanie_%C5%9Bredniej.png)
+
+- menu w rogu ekranu pozwalające na szybki manewr po stronie
+
+![Menu](https://github.com/engdave/usos-extended/blob/main/pictures/menu.png)
