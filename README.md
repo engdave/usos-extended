@@ -7,7 +7,7 @@ Wirtalny Dziekanat odszedł w zaświaty i ludzie musieli się przyzwyczaić do "
 # Instalacja
 
 Łatwy sposób:
-- Pobierz dodatek z [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+- Pobierz dodatek z [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) (jeszcze nie aktualne)
 
 Trudny sposób:
 - Pobierz całą paczkę [klikając tutaj](https://github.com/engdave/usos-extended/archive/refs/heads/main.zip) i wrzuć sobie do przeglądarki Chrome.
