@@ -2,7 +2,7 @@
 
 # USOS Extended
 
-Wirtalny Dziekanat odszedł w zaświaty i ludzie musieli się przyzwyczaić do "tego gorszego" systemu jakim jest USOS. Sam w sobie system jest dobrze zrobiony ale uczelnia AGH nie wykorzystuje jego pełnego potencjału. Skrypt dodaje kilka smaczków których w systemie nie ma a powinny być.
+Wirtualny Dziekanat odszedł w zaświaty i ludzie musieli się przyzwyczaić do "tego gorszego" systemu jakim jest USOS. Sam w sobie system jest dobrze zrobiony, ale uczelnia AGH nie wykorzystuje jego pełnego potencjału. Skrypt dodaje kilka smaczków, których w systemie nie ma, a powinny być.
 
 # Instalacja
 
